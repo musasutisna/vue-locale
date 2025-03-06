@@ -1,0 +1,26 @@
+{
+  "name": "@musasutisna/vue-locale",
+  "version": "1.0.0",
+  "description": "a lightweight and efficient Vue localization package that simplifies multilingual support",
+  "main": "index.js",
+  "author": {
+    "name": "Musa Sutisna",
+    "email": "musa.sutisna@gmail.com",
+    "url": "https://github.com/musasutisna"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/musasutisna/vue-locale#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musasutisna/vue-locale.git"
+  },
+  "keywords": [
+    "mikro-cms"
+  ],
+  "bugs": {
+    "url": "https://github.com/musasutisna/vue-locale/issues"
+  },
+  "dependencies": {
+    "vue-i18n": "^11.0.0-rc.1"
+  }
+}
