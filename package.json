@@ -1,6 +1,6 @@
 {
   "name": "@musasutisna/vue-locale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a lightweight and efficient Vue localization package that simplifies multilingual support",
   "main": "index.js",
   "author": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/musasutisna/vue-locale/issues"
   },
-  "dependencies": {
+  "peerDependencies": {
     "vue-i18n": "^11.0.0-rc.1"
   }
 }
